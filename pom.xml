@@ -3,7 +3,6 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>com</groupId>
    <artifactId>activity</artifactId>
-   <version>1.0.0</version>
    <name>activity</name>
    <url>http://maven.apache.org</url>
    <packaging>war</packaging>
