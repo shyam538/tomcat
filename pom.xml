@@ -19,7 +19,5 @@
                <configuration> <webXml>WEB-INF/web.xml</webXml> </configuration>
            </plugin>
        </plugins>
-
-       <finalName>${project.artifactId}</finalName>
    </build>
 </project>
