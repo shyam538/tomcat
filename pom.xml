@@ -20,6 +20,6 @@
            </plugin>
        </plugins>
 
-   <finalName>activity</finalName>
+       <finalName>${project.artifactId}</finalName>
    </build>
 </project>
