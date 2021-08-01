@@ -19,5 +19,7 @@
                <configuration> <webXml>WEB-INF/web.xml</webXml> </configuration>
            </plugin>
        </plugins>
+
+   <finalName>activity</finalName>
    </build>
 </project>
